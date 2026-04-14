@@ -1,0 +1,10 @@
+google-generativeai
+fastapi
+uvicorn
+streamlit
+openai
+pypdf
+python-multipart
+python-dotenv
+requests
+pydantic
